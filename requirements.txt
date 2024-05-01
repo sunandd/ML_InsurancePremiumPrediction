@@ -1,7 +1,10 @@
 pandas
+numpy
 pymongo[srv]
 datetime
-
-
+sseaborn
+matplotlib
+scikit-learn
+dataclasses
 
 -e .
