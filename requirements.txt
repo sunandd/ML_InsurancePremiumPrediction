@@ -6,5 +6,7 @@ sseaborn
 matplotlib
 scikit-learn
 dataclasses
+pickle
+boto3
 
 -e .
